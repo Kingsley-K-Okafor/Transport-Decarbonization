@@ -60,3 +60,10 @@ For questions, clarification, or collaboration:
 
 This repository is currently public during the journal review process.  
 Access may be restricted if needed
+
+---
+
+## 🔙 Navigation
+
+Return to main portfolio:  
+👉 https://github.com/Kingsley-K-Okafor/engineering-portfolio
